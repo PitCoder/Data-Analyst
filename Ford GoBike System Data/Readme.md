@@ -1,7 +1,7 @@
 # Communicate-Data-Findings
 Udacity's Data Analyst Nanodegree - Project 5
 
-![Ford GoBike Picture](/Ford_GoBikes.png)
+![Ford GoBike Picture](Ford_GoBikes.png)
 
 ### Motivation
 Data visualization is an important skill that is used in many parts of the data analysis process. 
